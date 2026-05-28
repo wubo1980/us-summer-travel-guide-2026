@@ -17,6 +17,9 @@ export const metadata: Metadata = {
   title: "Summer Budget Travel 2026",
   description:
     "A practical guide to cheap flights, affordable destinations, and smarter summer travel planning in the US.",
+  other: {
+    "google-site-verification": "N21K5VoxWUyIIwGf5NZjvhvU2Ty_JC2EoVhMWPL-iro",
+  },
 };
 
 /**
