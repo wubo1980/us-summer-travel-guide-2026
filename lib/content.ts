@@ -193,28 +193,38 @@ export const articles: Article[] = [
       },
     ],
   },
-  {
     slug: "best-travel-credit-cards-2026",
     title: "Best Travel Credit Cards 2026",
     category: "Tips & Hacks",
-    excerpt:
-      "A plain-English placeholder for comparing travel cards by annual fee, reward style, and real usefulness for summer trips.",
-    readTime: "9 min read",
-    updatedAt: "May 2026",
+    excerpt: "A no-nonsense comparison of cashback, points, and miles cards for summer travel \u2014 with real annual-fee math, family-friendly insurance picks, and what changed in 2026.",
+    readTime: "10 min read",
+    updatedAt: "May 30, 2026",
     featured: false,
-    tags: ["best travel credit cards 2026", "affiliate", "cashback"],
+    tags: ["best travel credit cards 2026", "cashback vs points", "summer travel savings"],
     placeholderSections: [
       {
-        heading: "What Real Travelers Need",
-        body: "The completed article will focus on practical value instead of hype, comparing cashback cards, flexible points cards, and premium options based on how real summer travelers actually spend on flights, hotels, rental cars, and baggage fees.",
+        heading: "Cash Back vs. Points vs. Miles: Which Actually Saves You Money?",
+        body: "The three reward types serve different travelers, and the right choice depends entirely on how you spend. Cash-back cards like the Citi Double Cash (2% flat) or Wells Fargo Active Cash (2% unlimited) are the simplest: every dollar spent earns real money back, no transfer partners or blackout dates. They're ideal for families who want predictable savings on flights, gas, groceries, and lodging without juggling loyalty programs. Flexible points cards \u2014 Chase Sapphire Preferred and Capital One Venture Rewards lead this category \u2014 earn points you can transfer to airlines (United, Southwest, Air Canada) or hotels (Hyatt, Hilton) at ratios that frequently exceed 2 cents per point. For a family spending $5,000 on a summer road trip, that's potentially $100\u2013$150 in value above a 2% cash-back card. Miles cards tied to specific airlines (Delta SkyMiles, United Explorer) make sense only if you're loyal to one carrier \u2014 the free checked bag and priority boarding perks alone can offset the annual fee on a single trip. The 2026 rule of thumb: if you book one big trip per year, a flat cash-back card wins. If you travel 3+ times or fly internationally, a flexible points card multiplies your spending power.",
       },
       {
-        heading: "Comparisons That Matter",
-        body: "Rather than listing benefits without context, the full page will explain annual-fee tradeoffs, transfer partner value, travel protections, and which cards fit families versus solo travelers.",
+        heading: "Annual Fee vs. No-Annual-Fee: When Each Makes Financial Sense",
+        body: "The annual fee debate is straightforward in 2026: a $95 fee is worth it if the card's perks cover that cost on a single trip. The Chase Sapphire Preferred ($95) includes primary rental car insurance, trip cancellation coverage ($10,000 per trip), and no foreign transaction fees \u2014 benefits that would cost $50\u2013$80 to buy separately for a two-week family trip. The Capital One Venture Rewards ($95) offers similar protections plus Global Entry/TSA PreCheck credit ($100) that effectively pays the fee in year one. No-annual-fee cards like the Wells Fargo Active Cash ($0) or Citi Double Cash ($0) avoid the mental math entirely: 2% back on everything, no expiration, no rotating categories. For a family taking one summer vacation and otherwise spending modestly, the no-fee card wins because the $95 fee would erode too much of the return. But for frequent flyers, a $95 card with transfer partners can deliver 3\u20135 cents per point on premium cabin redemptions \u2014 the math flips decisively. The 2026 wild card: several issuers raised annual fees this year (Citi raised the Premier from $95 to $125, Amex bumped the Gold to $325), so check current fee schedules before applying.",
       },
       {
-        heading: "Transparency First",
-        body: "This placeholder signals future affiliate-aware content that stays editorially independent. The final version will clearly separate sponsored relationships from independent comparisons.",
+        heading: "Travel Protection That Actually Matters for Families",
+        body: "When traveling with kids, insurance isn't a bonus \u2014 it's a necessity. Trip cancellation/interruption: Chase Sapphire Preferred covers up to $10,000 per trip and $20,000 per 12-month period for cancellations due to sickness, weather, or unexpected events. For a family of four with $3,000+ in prepaid flights and hotels, this alone can justify the annual fee. Baggage delay: the Amex Gold Card ($325 annual fee) covers up to $100 per day for 5 days if bags are delayed 6+ hours \u2014 enough to buy clothes and toiletries at your destination. Rental car insurance: most premium cards include primary CDW coverage, which saves $15\u2013$30 per day in rental counter insurance. Capital One Venture X ($395) and Chase Sapphire Reserve ($550) offer this. Trip delay reimbursement: the Chase Sapphire Preferred covers meals and lodging up to $500 per ticket if a flight is delayed more than 12 hours. In summer 2026, with airlines running reduced schedules and weather disruptions more frequent, delay coverage is arguably the most important benefit of any travel card. Families should prioritize cards with at least trip cancellation and baggage delay protection.",
+      },
+      {
+        heading: "The Best Card for Each 2026 Summer Travel Scenario",
+        body: "Scenario 1 \u2014 Family road trip with hotel stays: Chase Sapphire Preferred. Transfer points to Hyatt, where a Category 3 hotel runs 6,000\u20139,000 points per night. A $600 hotel spend earning 3x on dining and travel generates roughly 1,800 points, worth about $30 toward that Hyatt night. Combined with primary rental car insurance and no foreign fees, it's the best road trip card. Scenario 2 \u2014 International family vacation: Capital One Venture X ($395). The $300 annual travel credit and 10,000 anniversary miles offset the fee completely if you fly once a year. Unlimited 2x miles on everything, Priority Pass lounge access (for layovers with kids), and Global Entry credit. Scenario 3 \u2014 Budget-conscious solo traveler: Wells Fargo Active Cash (no fee, 2% flat). No mental math, no transfer partners to learn, just cash back. Scenario 4 \u2014 Frequent domestic flyer loyal to one airline: the co-branded card (Delta SkyMiles Gold at $150, United Explorer at $95, Southwest Rapid Rewards at $69). The cardholder benefits \u2014 free checked bag ($35\u2013$40 value per roundtrip), priority boarding (saves stress with kids), and 2x miles on the airline \u2014 make these worth it for 2+ trips per year on that carrier.",
+      },
+      {
+        heading: "2026 Card Changes You Need to Know About",
+        body: "The 2026 credit card landscape shifted meaningfully. Amex increased the Gold Card annual fee to $325 (up from $295 in 2023) while adding more dining and Uber credits \u2014 the net value is still positive for heavy users, but the higher upfront cost hurts new applicants. The Amex Platinum now sits at $695 with occasional retention offers that offset $100\u2013$200. Citi Premier rose to $125, but the 3x categories (dining, groceries, gas) now include a $100 annual hotel credit when booking through Citi Travel \u2014 effectively a $25 net fee for anyone who books one hotel stay per year. Chase maintained its fee structure (Sapphire Preferred at $95, Reserve at $550) but tightened approval requirements \u2014 income and credit score thresholds are higher, and 5/24 rule enforcement remains strict. Capital One's Venture X annual fee stayed at $395 but adjusted its benefits mix. New for 2026: several issuers now include sustainability-linked perks. Bilt Rewards offers bonus points for choosing eco-friendly hotels, and the Bank of America Travel Rewards card added a carbon offset option on flight purchases.",
+      },
+      {
+        heading: "Our Verdict: Pick the Card That Matches Your Trip",
+        body: "Don't overthink this. If you're taking one summer trip and don't fly frequently, the Wells Fargo Active Cash (2% flat, no fee) is the right answer. Take the cash back, apply it to the trip. If you're planning a road trip with rental cars and hotel stays, the Chase Sapphire Preferred ($95, waived first year) earns its fee back on rental insurance alone. If your summer includes an international flight, the Capital One Venture X ($395) or Venture Rewards ($95) gives you Global Entry, lounge access, and no foreign transaction fees. If you're a die-hard Delta or United flyer, their co-branded card's free checked bag will save a family of four $140\u2013$280 per roundtrip \u2014 the math is unbeatable. The one card everyone should have regardless of trip plans: a no-annual-fee card with no foreign transaction fees, as a backup. For 2026 specifically, apply 2\u20133 months before your trip to allow for card delivery and to front-load category spending onto the new card before your travel dates.",
       },
     ],
   },
@@ -296,53 +306,73 @@ export const articles: Article[] = [
       },
     ],
   },
-  {
     slug: "250th-anniversary-free-events",
     title: "250th Anniversary Free Events",
     category: "Tips & Hacks",
-    excerpt:
-      "A placeholder roundup for free or low-cost America 250 events that can anchor a memorable summer without major ticket spend.",
-    readTime: "5 min read",
-    updatedAt: "May 2026",
+    excerpt: "A practical roundup of free America 250 events across the U.S. \u2014 July 4 mega-celebrations, National Park free days, regional festivals, and road trip routes that connect them all.",
+    readTime: "9 min read",
+    updatedAt: "May 30, 2026",
     featured: false,
-    tags: ["250th anniversary free events", "free things to do", "summer 2026"],
+    tags: ["250th anniversary free events", "America 250", "summer 2026 free activities"],
     placeholderSections: [
       {
-        heading: "Why Free Events Matter in 2026",
-        body: "For travelers facing higher transportation costs, free public events can create the backbone of a trip budget. The finished article will organize celebrations by region, family friendliness, and planning complexity.",
+        heading: "Semiquincentennial: What's Happening and Why It Matters",
+        body: "2026 marks the 250th anniversary of the United States \u2014 the semiquincentennial \u2014 and it's shaping up as the largest coordinated celebration in American history. More than 30 state legislatures have passed resolutions supporting America250 activities, and the U.S. Semiquincentennial Commission has partnered with the National Park Service, Smithsonian Institution, and local governments across all 50 states to coordinate events. Unlike the Bicentennial in 1976, which was concentrated around July 4th, the 250th is designed as a multi-year commemoration running from 2026 through 2033, with the heaviest concentration of free public events in the summer of 2026. Federal funding of $150 million was allocated for America250 programs, with matching state and local contributions. For budget travelers, this means an unprecedented density of free concerts, fireworks, museum admissions, parades, and cultural festivals throughout the summer.",
       },
       {
-        heading: "What the Final List Will Include",
-        body: "Readers can expect event categories, date windows, crowd-level expectations, and ideas for combining free celebrations with low-cost overnight stays or road trip routes.",
+        heading: "July 4, 2026: America's Biggest Birthday Party",
+        body: "July 4, 2026 will be the single biggest day of free events nationwide. Washington D.C. anchors the celebration: the National Mall will host the largest-ever Capitol Fourth concert (free, no tickets required), followed by the biggest fireworks display in the city's history. The Smithsonian museums on the Mall will offer extended hours and special exhibits \u2014 all free admission. Philadelphia, the nation's birthplace, will hold a week-long 'Philly Fourth of July' festival culminating in a free concert at the Philadelphia Museum of Art steps (the Rocky steps) with headlining performers, and a fireworks spectacular over the Delaware River. New York City's Macy's fireworks show and Boston's Boston Pops concert on the Esplanade (free lawn seating, arrive early) are both expected to draw record crowds. Smaller cities are going big too: St. Louis has announced a free Arch Grounds festival with live music and a 30-minute fireworks show; San Diego will host a free 'Big Bay Boom' fireworks show; and Nashville's Let Freedom Sing! festival features free concerts on lower Broadway. All of these are free to attend.",
       },
       {
-        heading: "Current State of the Page",
-        body: "This is a content placeholder intended to become a practical calendar-style resource once confirmed event schedules and city programs are finalized.",
+        heading: "Free National Park Days and Federal Land Access",
+        body: "The National Park Service is offering six fee-free days in 2026 as part of the America250 celebration, with additional access during National Park Week (April 18\u201326). The free-entry dates for summer 2026 are: June 6 (National Trails Day), June 20 (National Get Outdoors Day), July 4 (Independence Day), and September 26 (National Public Lands Day). On these dates, entrance fees are waived at all 429 national park sites, including popular fee-charging parks like Yellowstone, Grand Canyon, Yosemite, and Zion. Additionally, the Every Kid Outdoors program continues in 2026 \u2014 all 4th graders and their families get free access to national parks, national forests, and federal recreation lands for a full year. Even outside free days, the America the Beautiful Pass ($80 for the year, free for military and seniors) covers entry to over 2,000 federal recreation sites. For budget travelers planning a road trip, timing your visit to coincide with free-entry days can save $35 per park visit for a family of four.",
+      },
+      {
+        heading: "Regional Free Events Worth Planning Around",
+        body: "Beyond July 4th, this summer is packed with regional free events tied to the 250th anniversary. Northeast: Boston's '250th Freedom Trail Walk' (multiple dates, free guided tours of historic sites) and Providence's WaterFire returns with special America250-themed evenings. Mid-Atlantic: Philadelphia's year-long '250th Festival' includes free admission at Independence Hall and the Liberty Bell (always free, but with extended hours and special programming), plus the 'Philly Free Streets' program closing major roads to cars along the Benjamin Franklin Parkway. South: Charleston's 'Festival of Freedom' includes free concerts at Waterfront Park; Savannah's Saturday morning farmers markets and historic square tours are free, with added 250th-themed programming. Midwest: Chicago's 'Celebrate250' series includes free Navy Pier fireworks every Wednesday night (May through September) and free Grant Park concerts; Kansas City adds free community days at the National WWI Museum. West: Seattle's free outdoor movie series at the Seattle Center is themed around American cinema; San Francisco's Golden Gate Park hosts free summer concerts with 250th tie-ins. Southwest: Santa Fe's free summer band concerts on the Plaza and Albuquerque's free Balloon Fiesta parking days align with 250th programming.",
+      },
+      {
+        heading: "Year-Long Celebrations and Cultural Programs",
+        body: "The 250th isn't just a single weekend \u2014 it's a year-long cultural calendar. The Smithsonian's 'American Experience' initiative brings free traveling exhibitions to libraries, community centers, and museums in all 50 states \u2014 check your local venue's schedule for arriving exhibits about local history, civil rights, and American innovation. The National Endowment for the Arts funded 250 community-based arts projects for the anniversary, many of which include free public performances, mural projects, and storytelling events throughout summer 2026. The Library of Congress digital collections will be freely accessible online with special curated exhibits. The 'America 250 Sail' program brings a flotilla of tall ships to East Coast and Great Lakes ports \u2014 boarding and viewing are generally free (or low-cost donations), and the ships stop at 15 cities including New York, Boston, Baltimore, Cleveland, Chicago, and Portland. The National Archives museum in Washington D.C. offers free admission daily with special 250th exhibits featuring original founding documents.",
+      },
+      {
+        heading: "How to Combine Free Events with Your Road Trip",
+        body: "The smartest way to leverage 250th events is to build your summer road trip around geographic clusters of free programming. Example: start in Philadelphia (July 3\u20135, free concert + fireworks), drive to Washington D.C. (2.5 hours, Capitol Fourth events July 4 weekend, free museums), then continue north to New York for the free July 4 fireworks and Smithsonian traveling exhibits. Alternatively, a Midwest trip: Chicago's Grant Park festivals (free, July through August), drive 4.5 hours to Kansas City for the WWI Museum free days and 250th events, then southwest to Santa Fe for free plaza concerts. For West Coast travelers: San Francisco's Golden Gate Park summer concerts, Seattle's free outdoor movies, and Portland's free waterfront festivals all connect via I-5 within easy driving distance. The National Park Service free days (June 6, June 20, July 4, September 26) give you four anchor dates to plan park visits around. Lodging tip: book campsites and motels 6\u20138 weeks ahead for July 4 weekend \u2014 demand will be the highest in 50 years for that date. For other summer weekends, last-minute booking is still viable in most regions.",
       },
     ],
   },
-  {
     slug: "packing-hacks-to-save-on-baggage-fees",
     title: "Packing Hacks to Save on Baggage Fees",
     category: "Tips & Hacks",
-    excerpt:
-      "A placeholder for carry-on strategy, family packing logic, and small decisions that prevent baggage charges from eating your budget.",
-    readTime: "4 min read",
-    updatedAt: "May 2026",
+    excerpt: "Carry-on strategy, family packing logic, airline-by-airline fee comparisons, and the 10-item system that eliminates baggage charges entirely for summer 2026 trips.",
+    readTime: "9 min read",
+    updatedAt: "May 30, 2026",
     featured: false,
-    tags: ["packing hacks", "baggage fees", "budget travel"],
+    tags: ["packing hacks", "baggage fees 2026", "carry-on strategy", "family travel tips"],
     placeholderSections: [
       {
-        heading: "The Hidden Cost Problem",
-        body: "Budget travelers often focus on base fares but lose money to checked bags, overweight fees, and poorly planned family packing. The full article will show how to reduce those charges before checkout and at the airport.",
+        heading: "How Airline Baggage Fees Changed After Spirit's Collapse",
+        body: "Spirit Airlines ceased operations on May 2, 2026, eliminating the industry's most extreme a-la-carte pricing model. Spirit charged $38\u2013$55 for carry-on bags and $42\u2013$65 for checked luggage on a roundtrip, and its departure has reshuffled the fee landscape. Frontier, Spirit's closest competitor, raised its carry-on fees to $45\u2013$69 (up from $35\u2013$55) within two weeks of Spirit's closure and increased checked bag fees by 15%. Allegiant similarly adjusted upward, with carry-on fees now hitting $50\u2013$75. The low-cost vacuum has also emboldened legacy carriers: Delta raised its standard checked bag fee from $35 to $40 for advance purchase (still $50 at the gate) in early May. United and American held steady at $35/$45 advance/gate for first checked bags but eliminated the $5 discount for paying at booking vs. before departure. The net effect for summer 2026 travelers: a checked bag roundtrip now costs $70\u2013$100 on legacy carriers and $84\u2013$130 on ultra-low-cost airlines. Southwest, notably, still includes two free checked bags per passenger \u2014 making it the most luggage-friendly carrier in the country by a wide margin.",
       },
       {
-        heading: "Smarter Packing Systems",
-        body: "The final guide will compare packing cubes, personal-item strategies, shared family toiletries, and warm-weather clothing planning to help readers travel lighter without stress.",
+        heading: "Carry-On Strategy: The Right Bag Makes the Difference",
+        body: "Winning at carry-on starts with the bag itself. The personal item (a backpack, duffel, or tote measuring under 18x14x8 inches on most airlines) is free on every U.S. airline \u2014 including Frontier, Allegiant, and Spirit's successor carriers. The most effective personal item bags for summer travel: a 30\u201340L backpack that fits under the seat when not overstuffed (Osprey Daylite, Cotopaxi Batac 28L, or a cheap Amazon Basics 30L at $25). Pair this with a full-size carry-on spinner (22x14x9 inches for most airlines, 21.5x15.5x7.8 inches for cheaper carriers \u2014 check your airline's spec). A soft-sided duffel compresses easier into sizers than hard-shell cases. The Summer 2026 smart strategy: book airlines that include carry-on in their base fare or include it as a no-fee companion benefit. Delta, United, and American include carry-on in all fares \u2014 no extra charge. Frontier and Allegiant charge $45\u2013$75 for overhead-bin carry-on but $0 for personal items. The play: pack everything into a well-structured personal item bag, wear your bulkiest items (jacket, heaviest shoes) on the flight, and use a collapsible duffel in your backpack for bringing purchases back.",
       },
       {
-        heading: "Next Version of This Page",
-        body: "This placeholder will grow into a more tactical packing guide with airline-fee awareness, product recommendations, and scenario-based tips for short breaks and longer summer trips.",
+        heading: "Family Packing: Share Weight, Share Space, Share Costs",
+        body: "A family of four can easily spend $200\u2013$500 roundtrip on baggage alone \u2014 but smart family packing kills this cost. Rule one: one checked bag for the whole family is cheaper than individual bags. A single 50-lb checked bag costs $35\u2013$40 on Delta/United/American. Even better: pack everyone's clothing into one large roller bag (check it) and have each family member carry a personal item backpack with their own essentials (electronics, medications, change of clothes). For a family of four on a 7-day summer trip, that's one checked bag ($35) plus four free personal items = $35 total bag fees. Compare to checking four bags at $35\u2013$40 each: that's $140\u2013$160 saved. Rule two: share toiletries. One family-sized shampoo, sunscreen, and toothpaste in the checked bag replaces four individual sets. Travel-size bottles for personal items only. Rule three: use vacuum compression bags (or the roll-and-pack method for cotton clothes) to fit two people's clothing into one suitcase. Summer clothing is light and compressible, so a family of four's worth of t-shirts, shorts, and swimwear fits in one large checked bag with room to spare.",
+      },
+      {
+        heading: "Overweight and Oversized Fee Traps to Avoid",
+        body: "Overweight bag fees are where airlines make their real money. Standard checked bag weight limits: most U.S. airlines allow 50 lbs max at the standard fee. Go over 50 lbs, and you're hit with a $70\u2013$100 overweight fee (Delta charges $100 for 51\u201370 lbs; United charges $100 for 51\u201370 lbs; American charges $70 for 51\u201370 lbs). For bags 71\u2013100 lbs, the fee jumps to $150\u2013$200, and some airlines outright refuse bags over 50 lbs. The trap: families pack one big bag to save on per-bag fees, then overload past 50 lbs and pay more in overweight fees than they saved. Solution: weigh your bag at home before leaving. A cheap luggage scale ($10 on Amazon) pays for itself on the first trip. Better strategy: pack two lighter checked bags instead of one heavy one. On Southwest (two free bags), this costs nothing. On United (first bag $35 for advance), two checked bags = $70 vs. one 60-lb bag = $35 + $100 overweight = $135. Oversized baggage (over 62 linear inches or 158 cm) triggers a $75\u2013$150 special handling fee. Call the airline 48 hours ahead to confirm oversized policy \u2014 don't find out at the check-in counter.",
+      },
+      {
+        heading: "Airline-by-Airline Baggage Fee Comparison (Summer 2026)",
+        body: "Here's the current fee landscape. Southwest: 2 free checked bags (50 lbs each), no change fees, 1 free carry-on + 1 free personal item. Best option for families by a wide margin. Delta: 1st bag $40 advance / $50 gate; 2nd bag $45 advance / $55 gate; overweight (51\u201370 lbs) $100; carry-on free. United: 1st bag $35 advance / $45 gate; 2nd bag $45 advance / $55 gate; overweight (51\u201370 lbs) $100; carry-on free. American: 1st bag $35 advance / $45 gate; 2nd bag $45 advance / $55 gate; overweight (51\u201370 lbs) $70; carry-on free. Frontier and Allegiant: 1st checked bag $42\u2013$65 advance; 2nd checked bag $50\u2013$70; carry-on (overhead bin) $45\u2013$75; personal item $0. Breeze Airways: 1st checked bag $40; carry-on included in Nicer and Nicest fares but costs $30 in Nice (base) fare. JetBlue: Blue fare includes 1 carry-on; 1st checked bag $35; Blue Basic fare: 1 personal item only. Alaska: 1st checked bag $35; 2nd $45; carry-on free. Key insight: booking 21+ days in advance saves $5\u2013$15 on most airlines. Paying at booking vs. at the airport saves $10\u2013$20 per bag \u2014 always add bags during checkout.",
+      },
+      {
+        heading: "The 10-Item Packing System for Light Travelers",
+        body: "For summer trips of 5\u20137 days, this 10-item system fills a personal item bag and avoids all baggage fees entirely. (1) Washable travel pants \u2014 one pair of lightweight hiking pants or dark jeans, worn on the plane. (2) Quick-dry shorts \u2014 one pair, doubles as swim trunks or beach bottoms. (3) Neutral t-shirt \u2014 two, preferably merino wool (sweat-resistant, wear 2\u20133 times between washes) or quick-dry polyester. (4) Button-down shirt or blouse \u2014 one that works for dinner or nicer outings. (5) Underwear \u2014 three pairs (quick-dry, wash in sink). (6) Socks \u2014 two pairs (for hiking or everyday). (7) Swimwear \u2014 one set, packed in a small dry bag. (8) Versatile shoes \u2014 wear one pair of comfortable sneakers or walking shoes that work for both hiking and casual dining. (9) Toiletries kit \u2014 travel-sized shampoo, sunscreen, toothpaste, deodorant, solid soap (no liquids over 3.4oz for carry-on). (10) Light outer layer \u2014 a packable windbreaker or hoodie for evenings and air-conditioned planes. This system fits into an 18x14x8-inch personal item bag (free on every airline) and covers a week of summer travel. The trick: do a sink wash of underwear and t-shirts halfway through your trip. Dry time on summer evenings is 2\u20133 hours.",
       },
     ],
   },
