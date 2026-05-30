@@ -10,7 +10,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const staticPages: MetadataRoute.Sitemap = [
     {
       url: baseUrl,
-      lastModified: new Date("2026-05-28"),
+      lastModified: new Date("2026-05-30"),
       changeFrequency: "weekly",
       priority: 1,
     },
@@ -18,7 +18,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const articlePages: MetadataRoute.Sitemap = articles.map((article) => ({
     url: `${baseUrl}/articles/${article.slug}`,
-    lastModified: new Date("2026-05-28"),
+    lastModified: new Date("2026-05-30"),
     changeFrequency: "weekly",
     priority: 0.8,
   }));
