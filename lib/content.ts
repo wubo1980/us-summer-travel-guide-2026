@@ -157,23 +157,39 @@ export const articles: Article[] = [
     title: "Budget Road Trip Planning Guide",
     category: "Road Trips",
     excerpt:
-      "A starter framework for saving on gas, lodging, food, and park access without turning your road trip into hard work.",
-    readTime: "7 min read",
-    updatedAt: "May 2026",
+      "Gas at $5/gallon, motels squeezing margins, and national parks busier than ever — here's how to plan a summer road trip that doesn't burn through your budget before you reach your first destination.",
+    readTime: "9 min read",
+    updatedAt: "May 30, 2026",
     featured: true,
     tags: ["summer road trip tips", "road trip budget", "national parks"],
     placeholderSections: [
       {
-        heading: "Build a Lower-Cost Route",
-        body: "The full version will cover how to choose realistic drive windows, cluster high-value stops, and reduce expensive detours that quietly increase fuel and lodging costs during summer peak season.",
+        heading: "Why Road Trips Still Win in 2026 — When Driving Beats Flying",
+        body: "With jet fuel prices doubling and airlines cutting capacity, the cost gap between flying and driving has narrowed in surprising ways. For a family of four, driving 500 miles at $4.50/gallon in a car getting 30 MPG costs roughly $75 in fuel — compared to $1,200+ for four roundtrip tickets. Use KAYAK's Trip Calculator to compare real-time driving vs. flying costs for your specific route. The calculator factors in gas prices, tolls, hotel stops, and rental car needs, giving you a dollar-for-dollar comparison. The rule of thumb: for trips under 500 miles (one-way), driving almost always wins. For 500–1,000 miles, compare carefully. Beyond 1,000 miles, flying starts making sense unless you're already planning multiple stops. The calculator also shows carbon emissions, so you can factor in environmental impact alongside cost.",
       },
       {
-        heading: "Sleep Smarter, Not Rougher",
-        body: "Readers will get side-by-side guidance for camping, basic motels, cabin rentals, and mixed lodging strategies so they can balance comfort, kids, weather, and cost without overpaying.",
+        heading: "Fuel Strategy: Surviving $5/Gallon Gas",
+        body: "At $4.50–$5.00/gallon, fuel is the single biggest variable cost on any road trip. Here's how to minimize it. First, use GasBuddy or the AAA app to find stations along your route — prices can vary by $0.50–$1.00/gallon between stations just a few miles apart. Second, the 'pack light' rule: every 100 pounds of extra weight reduces fuel economy by roughly 1%. A loaded roof box can cut MPG by 10–25%, so pack inside the car whenever possible. Third, cruise control at 65 MPH instead of 75 MPH can improve highway fuel economy by 10–15%. Fourth, plan fuel stops around Costco, Sam's Club, and BJ's (if you're a member) — their prices are consistently $0.20–$0.40/gallon below market. Fifth, avoid the 'gas station desert' stretches: major interstates through the Southwest (I-10, I-40, I-15) can have 70+ mile gaps between stations in remote areas, and prices at the few available stations are dramatically higher. Fill up before entering these zones.",
       },
       {
-        heading: "Where This Guide Will Expand",
-        body: "This placeholder page will later include printable-style planning checklists, packing reminders, and sample trip structures for families, couples, and backpackers.",
+        heading: "Lodging Strategy: Camping vs Motels vs Short-Term Rentals",
+        body: "The most effective cost-saving strategy on a road trip is how you choose to sleep. A mixed lodging approach almost always beats committing to one type for the entire trip. Camping: a tent site at a national or state park runs $20–$40/night. KOA campgrounds average $40–$60/night for a tent site with amenities (showers, laundry, wifi). Hipcamp offers private land camping from $25/night. If you're camping for 3+ nights, the gear pays for itself versus motel costs. Basic motels (Motel 6, Super 8, Econolodge): average $70–$110/night. These are your best bet for rest stops after long driving days where you arrive late and leave early. Short-term rentals (Airbnb, Vrbo): private rooms from $50–$80/night, entire places from $90–$150/night. Best for multi-night stays where you want kitchen access to save on food. Mixed strategy example for a 10-day trip: 3 nights camping + 3 nights motels + 2 nights Airbnb + 2 nights with friends/family = average $55–$75/night total, versus $120+/night on motels alone.",
+      },
+      {
+        heading: "The $80 National Parks Pass: Maximum Value Play",
+        body: "The America the Beautiful Pass costs $80 and grants access to all 429+ National Park Service sites for a full year. If you're visiting any two national parks on your road trip, it pays for itself immediately (individual park entry fees range from $15–$35 each). For a trip hitting three or more parks, the pass is an absolute no-brainer. Best pass-friendly road trip combos: (1) The Grand Canyon Loop — Grand Canyon ($35), Zion ($35), Bryce Canyon ($35) = $105 vs $80. (2) The Colorado Rockies — Rocky Mountain ($30), Mesa Verde ($30), Great Sand Dunes ($25) = $85 vs $80. (3) The Pacific Northwest — Mount Rainier ($30), Olympic ($30), North Cascades ($30) = $90 vs $80. The pass also covers non-driving visitors: it admits the pass holder plus up to three additional adults (children under 16 are always free). Buy it online at the USGS store before you leave, or pick it up at the first park you visit. Active-duty military and Gold Star families get a free annual pass. Fourth graders get a free 'Every Kid Outdoors' pass. Seniors (62+) can get a lifetime pass for $80 — same price as the annual pass, which is an incredible deal if you plan any future trips.",
+      },
+      {
+        heading: "Sample Route 1: Pacific Coast Highway — San Francisco to San Diego",
+        body: "This classic California road trip runs roughly 500 miles and can be done in 5–7 days. Budget breakdown: fuel ($150–$200), lodging at $70/night average ($350–$490), food ($200–$350), attractions ($50–$150). Total estimated cost: $750–$1,190 for one person; add $200–$300 per additional person for food. Highlights: Big Sur (free scenic pullouts), Hearst Castle ($30 entry, book ahead), Elephant Seal Rookery in San Simeon (free), Santa Barbara's State Street (free to walk), and the historic Hotel Del Coronado (free to visit the beach). Money-saving tips: stay inland in Paso Robles or Santa Maria instead of Monterey or Big Sur ($50–$80/night vs $150–$250). Pack a cooler and buy groceries at Safeway/Vons along the route instead of eating at tourist restaurants — you'll save $15–$25 per meal. The stretch between Carmel and San Simeon has limited gas stations, so fill up in Carmel before heading south on Highway 1.",
+      },
+      {
+        heading: "Sample Route 2: The Grand Canyon Loop — Las Vegas, Zion, Grand Canyon, Las Vegas",
+        body: "This 800-mile loop is one of America's best road trip values. Start and end in Las Vegas (cheap flights from most U.S. cities). Route: Las Vegas → Zion National Park (2.5 hours) → Bryce Canyon (1.5 hours) → Grand Canyon South Rim (3 hours) → Las Vegas (4.5 hours). Budget breakdown: rental car ($250–$400), fuel ($180–$240), National Parks pass ($80), lodging ($350–$600), food ($250–$400). Total: $1,110–$1,720 for one person. Money-saving tips: camp inside Zion ($20/night, reserve early) or stay in Kanab, Utah ($70–$100/night) instead of Springdale ($150–$250/night). At Grand Canyon, stay in Tusayan ($90–$120/night) or camp at Mather Campground ($18/night) instead of the expensive lodges on the South Rim ($180–$400/night). The scenic drive on Highway 89A between Jacob Lake and Marble Canyon is free and offers stunning views of Vermilion Cliffs — one of the most underrated free attractions on the route. Bonus stop: Valley of Fire State Park (1 hour from Vegas, $15 entry) for incredible red-rock formations without the national park crowds.",
+      },
+      {
+        heading: "Food and Activity Hacks for the Road",
+        body: "Food costs quietly eat 25–40% of a road trip budget if you're not careful. The cooler strategy: invest $20 in a good cooler and $10 in reusable ice packs. Stock up at grocery stores every 2–3 days with sandwich ingredients, fruit, yogurt, and drinks. This saves $10–$20 per meal vs fast food, and $20–$40 vs sit-down restaurants. Pro tip: call ahead to hotels/motels to confirm they have a mini-fridge — most budget chains do. Activity-wise, focus on free attractions: state and national park scenic drives, visitor centers, hiking trails, and scenic overlooks. Use the NPS app to find free ranger programs (many parks offer free guided walks and talks). Avoid tourist-trap attractions near national park entrances — the 'outfitters' selling $30 hats and $50 jackets are 2–3x the price of what you'd find 20 miles away. For paid activities, look for 'city passes' (e.g., San Francisco CityPASS) that bundle multiple attractions at 30–50% off, but only buy them if you're actually going to visit the included attractions.",
       },
     ],
   },
@@ -207,23 +223,35 @@ export const articles: Article[] = [
     title: "How to Find Cheap Flights in 2026",
     category: "Flight Deals",
     excerpt:
-      "Learn the search habits, price alerts, and booking timing patterns that still work even when average fares stay high.",
-    readTime: "6 min read",
-    updatedAt: "May 2026",
+      "Spirit is gone, fuel is expensive, and airlines are using AI to squeeze every dollar. Here's the new playbook for finding cheap flights in 2026 — from search tools to timing tricks to where the real deals are hiding.",
+    readTime: "10 min read",
+    updatedAt: "May 30, 2026",
     featured: true,
     tags: ["cheap flights 2026", "kayak", "google flights"],
     placeholderSections: [
       {
-        heading: "The Search Stack",
-        body: "The full article will outline how to combine tools like Google Flights, KAYAK, and Skyscanner for stronger fare visibility instead of relying on a single app or one-time search.",
+        heading: "The Search Stack: Google Flights + KAYAK + Skyscanner — Use All Three",
+        body: "In 2026, relying on a single search engine is a mistake. Each platform has strengths, and using all three gives you the best fare coverage. Google Flights excels at flexibility: the 'explore' map shows prices across entire regions, the date grid instantly reveals the cheapest days to fly, and price tracking sends email alerts when fares drop. KAYAK offers the widest booking-site coverage (including OTAs like Priceline and Hotwire that Google sometimes misses), and its 'hacker' mode lets you mix and match one-way tickets from different airlines for lower prices. Skyscanner's 'everywhere' search is unmatched for inspiration — type 'everywhere' as your destination and it shows you the cheapest flights from your airport to anywhere in the world. The workflow: start with Skyscanner's 'everywhere' for ideas, narrow down on Google Flights with date flexibility, then double-check the best options on KAYAK for hidden deals. This three-tool approach catches roughly 15–20% more deal opportunities than using any single search engine.",
       },
       {
-        heading: "Timing and Flexibility",
-        body: "Readers will see how flexibility in airport choice, trip length, and midweek departures can matter more than chasing mythical universal booking windows.",
+        heading: "Life After Spirit: How the Pricing Landscape Changed",
+        body: "Spirit Airlines' collapse in May 2026 removed the single most important force keeping domestic fares low. Spirit's ultra-low-cost model forced legacy carriers to compete on price on overlapping routes. Without Spirit, the pricing floor has lifted significantly. Routes most affected: former Spirit hubs like Fort Lauderdale, Detroit, Newark, Baltimore, and Las Vegas have seen 30–60% fare increases on routes Spirit previously dominated. Routes least affected: markets with strong Frontier and Allegiant presence still have some ultra-low-cost competition. New strategy: (1) Check Frontier and Allegiant first for short-haul routes — they've absorbed some of Spirit's routes and are currently offering the lowest base fares. (2) Consider Breeze Airways for secondary-city routes — it's filling gaps in markets abandoned by major carriers and pricing aggressively. (3) Use Google Flights to monitor specific routes that Spirit used to dominate (like FLL-DTW, BWI-ORD, MCO-EWR) — prices may stabilize as competing carriers add capacity, but they won't return to Spirit levels.",
       },
       {
-        heading: "Future Expansion",
-        body: "This placeholder will later include screenshot-ready workflows, alert strategies, and fee-awareness checklists for carry-on, seat selection, and change costs.",
+        heading: "AI Dynamic Pricing: How to Work With It, Not Against It",
+        body: "Airlines have dramatically accelerated their use of AI-driven dynamic pricing in 2026. Fares can now change multiple times per day based on demand, competitor moves, weather, and even the device you're searching on. The new rules: (1) Always search in incognito/private mode — while airlines deny 'cooking' prices based on search history, multiple tracking studies show prices can increase after repeated searches for the same route. (2) Use KAYAK's Price Alert — it monitors fares and sends push notifications when they drop. Set alerts for your top 3–5 routes at least 2–3 weeks before you plan to book. (3) Understand the pattern: AI pricing tends to raise fares during business hours (9 AM–5 PM) when most corporate bookings happen, and lower them overnight and on weekends. The cheapest fares often appear between Sunday evening and Tuesday morning. (4) The '72-hour rule': prices for domestic flights often drop 3–4 days before departure if the plane isn't full. This is risky for peak summer travel (when planes are fullest), but can save 20–40% on off-peak routes. (5) Use the Hopper app's AI predictions — its machine learning model claims 95% accuracy in predicting whether to buy now or wait, based on analysis of billions of fare data points.",
+      },
+      {
+        heading: "Flexibility Is Your Superpower in an Expensive Market",
+        body: "Flexibility in three dimensions — dates, airports, and stops — is the single most powerful tool budget travelers have in 2026. Date flexibility: shifting your trip by just 2–3 days can save 20–40%. KAYAK's data shows flying Tuesday–Wednesday instead of Friday–Sunday saves an average of $85 on domestic and $220 on international roundtrips. Mid-August through early September (after peak summer but before Labor Day weekend) is the cheapest window — 9% below July on domestic routes and 42% below July on international. Airport flexibility: instead of flying into NYC's JFK, check Newark ($50–$100 cheaper), LaGuardia, or even Philadelphia (Amtrak from $35). Instead of LAX, check Burbank, Long Beach, or Ontario ($30–$80 cheaper). Stop flexibility: a 1-stop flight with a 2–3 hour layover is typically $50–$150 cheaper than nonstop on the same route. Hidden city ticketing (buying a ticket with a layover in your actual destination and skipping the last leg) still works but carries risk — airlines may cancel your return ticket or loyalty miles if they catch you.",
+      },
+      {
+        heading: "Dollar Flight Club's Top Value Destinations for 2026 Summer",
+        body: "Dollar Flight Club's analysis of 500,000+ airfare data points reveals specific destinations where deals still exist. Best domestic value: Las Vegas (sub-$150 roundtrips from West Coast, $200–$300 from East Coast), Orlando ($150–$200 from most U.S. cities), Denver ($180–$280 from Midwest/Coast), and Phoenix ($150–$250 from the West). Best international value near the U.S.: Mexico continues to be the standout — Cancun ($250–$350 roundtrip), Mexico City ($280–$400), Puerto Vallarta ($228–$355), and San Jose del Cabo ($300–$420). In the Caribbean: San Juan, Puerto Rico ($196–$300), Punta Cana ($280–$420), and Montego Bay ($300–$450). These destinations consistently offer sub-$500 roundtrip fares from multiple U.S. gateways. For Europe: Reykjavik ($350–$500), Dublin ($380–$550), and Lisbon ($400–$600) are the most consistently affordable. Key insight: Dollar Flight Club data shows the biggest savings come from secondary airports in your departure city (e.g., flying from Burbank instead of LAX saves $60–$120 on Mexico flights) and being willing to accept 1-stop itineraries with longer layovers.",
+      },
+      {
+        heading: "When to Book: The New Timing Rules for 2026",
+        body: "The old 'book 6–8 weeks in advance' rule no longer applies in the AI-pricing era. New research from CheapAir's Annual Airfare Study (2026 edition) reveals: cheapest booking window for domestic flights is now 47–84 days before departure, with the 'sweet spot' at 70 days. Booking earlier than 100 days means paying a 15–25% early-adopter premium. Booking within 14 days means paying a 30–50% last-minute premium. For international flights: book 60–120 days ahead, with the sweet spot around 90 days. Holiday periods (July 4th, Labor Day) should be booked at the far end of these windows — 100+ days for peak summer dates. The 'fare drop' pattern: airlines typically release new fare sales on Tuesday mornings, and competitors match by Wednesday. The best time to search is Tuesday evening through Wednesday. Dollar Flight Club founder Jesse Neugarten's advice: 'Don't wait for a mythical best price. In 2026, if you see a fare that fits your budget, book it. AI pricing means prices are more likely to go up than down, and the seat may not be there tomorrow.' Set Google Flights alerts, KAYAK Price Alerts, and Dollar Flight Club notifications, then pull the trigger when any of them flags a deal within your budget range.",
       },
     ],
   },
@@ -232,23 +260,39 @@ export const articles: Article[] = [
     title: "FIFA World Cup 2026 Cities Guide",
     category: "Destinations",
     excerpt:
-      "A placeholder guide to which host cities may be worth the splurge and which ones could punish a tight budget the hardest.",
-    readTime: "7 min read",
-    updatedAt: "May 2026",
-    featured: false,
+      "11 host cities across the US, Canada, and Mexico — from Kansas City's bargain hotel rates to NYC's $700/night rooms. Here's where to go, where to skip, and how to save on a World Cup trip.",
+    readTime: "11 min read",
+    updatedAt: "May 30, 2026",
+    featured: true,
     tags: ["fifa world cup 2026 us cities", "city guide", "travel costs"],
     placeholderSections: [
       {
-        heading: "Value vs. Hype",
-        body: "The final article will compare host cities by lodging pressure, transit convenience, local attractions, and whether travelers can turn a match trip into a broader budget-friendly vacation.",
+        heading: "The 11 Host Cities at a Glance — Budget Tiers for World Cup 2026",
+        body: "The 2026 FIFA World Cup spans 11 cities across three countries: 8 in the US (New York/New Jersey, Los Angeles, Miami, Dallas, Atlanta, Kansas City, Boston, Seattle), 2 in Mexico (Mexico City, Guadalajara, Monterrey — though Monterrey was dropped in the final plan, Mexico ultimately has 3: Mexico City, Guadalajara, and Monterrey), and 2 in Canada (Toronto, Vancouver). The cost spread is staggering. Tier 1 - Budget-Friendly ($100–$180/night hotels): Kansas City is the standout value. Dallas, Atlanta, and Guadalajara also offer reasonable pricing. Tier 2 - Moderate ($180–$300/night): Seattle, Boston, Toronto, Vancouver. These cities have higher baselines but manageable prices outside peak match days. Tier 3 - Premium ($300–$700+/night): New York/New Jersey, Los Angeles, Miami, and Mexico City. These cities will see dramatic demand-driven price surges. The key insight: budget travelers shouldn't write off the World Cup — they just need to be strategic about which host city they target and when they travel.",
       },
       {
-        heading: "Where Costs Spike Fast",
-        body: "This section will eventually outline how event demand changes hotel pricing, short-term rentals, and airport congestion, helping readers avoid cities where prices rise faster than the experience justifies.",
+        heading: "Kansas City: The Undisputed Value Play of World Cup 2026",
+        body: "Kansas City is the single best value proposition among all 11 host cities — and it's not close. Hotel rates averaging $120–$160/night in summer (pre-event estimates suggest $150–$220/night during match weeks, still the cheapest of any host city). Roundtrip airfare consistently under $500 from most U.S. cities. Kansas City International Airport (MCI) is undergoing a $1.5 billion single-terminal renovation that should ease congestion. The city's streetcar is free and connects downtown to the River Market and Crossroads Arts District. Beyond the matches: the city has one of America's best barbecue scenes (Joe's Kansas City, Q39, Arthur Bryant's — most entrees under $20), the Nelson-Atkins Museum of Art (free), the National WWI Museum ($18), and 200+ miles of urban hiking and biking trails. The fan experience: Arrowhead Stadium is one of the loudest NFL venues in the country, and the city's centrally located NFL/Soccer complex means the stadium is walkable from several affordable hotel clusters. KC is hosting 6 matches in the group stage, making it a viable base for watching multiple games without the cost premium of coast-to-coast travel.",
       },
       {
-        heading: "What Readers Will Get Later",
-        body: "This placeholder will expand into a planning guide with city tiers, spending warnings, and side-trip suggestions for travelers considering a World Cup add-on itinerary.",
+        heading: "NYC/LA/Miami: Where the Splurge Isn't Worth It for Budget Travelers",
+        body: "The three most expensive host cities — New York/New Jersey, Los Angeles, and Miami — will see prices that make budget travel nearly impossible during match periods. New York/New Jersey: hotel rooms near MetLife Stadium in East Rutherford are projected at $500–$700/night during match weeks. Midtown Manhattan hotels could hit $400–$600/night. Even budget hotels in nearby Jersey City or Newark (former Spirit hub) are expected to surge past $300/night. Los Angeles: SoFi Stadium-area hotels are already pricing at $400–$600/night for summer 2026. Even Airbnbs in Inglewood are listing at $300–$500/night. Miami: Hard Rock Stadium's location in suburban Miami Gardens means limited nearby lodging — hotels in Miami Beach and downtown are projecting $350–$500/night. The verdict: if you're on a strict budget, attending matches in these cities will consume 3–4x the cost of a Kansas City or Dallas trip for the same experience. The one exception: if you have friends or family in these cities who can host you, the airfare remains manageable (NYC/LA/Miami are major airline hubs with competitive routes).",
+      },
+      {
+        heading: "Dallas, Atlanta, and Seattle: The Middle-Tier Sweet Spots",
+        body: "Three host cities offer a strong middle ground — cheaper than NYC/LA/Miami, slightly pricier than Kansas City, but with major city amenities and excellent transit connections. Dallas: AT&T Stadium in Arlington (between Dallas and Fort Worth) sits in a hotel corridor with rates averaging $140–$200/night. The stadium area has ample parking and the TRE rail connects downtown Dallas to the venue. Dallas Love Field (DAL) and DFW offer competitive airfare from most U.S. cities. Atlanta: Mercedes-Benz Stadium is downtown, walkable to MARTA rail, and surrounded by budget-friendly hotels in the $130–$190/night range. The city's airport (ATL) is the busiest in the world, meaning maximum route competition and lower fares. Seattle: Lumen Field is downtown, connected by light rail from Sea-Tac Airport ($3 fare). Hotels average $180–$260/night — more than Dallas or Atlanta, but the city's excellent public transit means you don't need a rental car. The Pacific Northwest scenery and Pike Place Market give Seattle the best non-soccer attractions of the middle-tier cities.",
+      },
+      {
+        heading: "How to Combine Matches with Cheap Side Trips",
+        body: "The smartest World Cup budget strategy: use the match as an anchor, then build a cheap side trip around it. Example 1: Fly into Dallas for a match ($140–$200/night hotels), then drive 3 hours to Austin for a few days of live music and cheap Tex-Mex ($100–$150/night hotels). Example 2: Attend a match in Kansas City ($150–$220/night), then drive 4 hours to the Ozarks for camping and lake activities ($30–$60/night camping or $80–$120/night cabin rentals). Example 3: Watch a match in Atlanta ($130–$190/night), then take a 2-hour drive to Chattanooga for hiking and the Tennessee Aquarium ($90–$130/night). Example 4: Seattle match ($180–$260/night) followed by a drive to Olympic National Park ($20/night camping) or a train to Portland ($100–$150/night). The key: book the match-day hotel first (it will sell out and spike in price), then build cheaper accommodations for the surrounding days. For cost-conscious travelers, pick a host city in Tier 1 (KC/Dallas/Atlanta) and combine it with a nearby outdoor destination where lodging costs drop dramatically after the match window.",
+      },
+      {
+        heading: "Non-Match Day Strategies: Avoiding the Demand Spike",
+        body: "Hotels, flights, and even restaurants spike in price specifically during match windows — but the same city can be dramatically cheaper the day before or after. Key strategies: (1) Arrive 2–3 days before your match and leave 1–2 days after. The biggest price surges happen within a 24-hour window of match day. Booking a hotel 4+ nights and arriving early can cut your per-night cost by 30–50% compared to arriving the night before match day. (2) Watch the match at a watch party instead of live. Every host city will have official FIFA Fan Fest zones with giant screens, food vendors, and live entertainment — free entry, lower cost than the stadium, and you skip the expensive ticket. (3) Stay outside the host city core. Instead of staying in Inglewood (LA), stay in Santa Monica or Long Beach and take public transit. Instead of staying in East Rutherford (NY/NJ), stay in downtown Jersey City or Hoboken and take the PATH train. (4) Use the World Cup to explore non-match-day attractions. Cities like Boston (Freedom Trail — free), Seattle (Pike Place, but go early to avoid game-day crowds), and Dallas (the Sixth Floor Museum, $18) have world-class attractions that are just as good — and much cheaper — on non-match days.",
+      },
+      {
+        heading: "Canada and Mexico: Cross-Border Value Considerations",
+        body: "The two Canadian host cities — Toronto and Vancouver — offer a unique value proposition for U.S. travelers. The strong U.S. dollar (approximately 1 USD = 1.35–1.40 CAD in 2026) means your money goes roughly 35% further in Canada. Toronto: hotels averaging $180–$250 CAD ($130–$180 USD) — cheaper than most comparable U.S. host cities. BMO Field downtown is transit-accessible. Vancouver: $200–$280 CAD ($145–$205 USD) with BC Place connected via SkyTrain. Mexico host cities — Mexico City and Guadalajara — are even cheaper on a straight dollars-to-pesos comparison (1 USD = ~18–20 MXN). Mexico City: hotels at $80–$150 USD per night for excellent options near Estadio Azteca. Guadalajara: $60–$120 USD. The caveat: flights to Mexico host cities from the U.S. are cheap ($200–$400 roundtrip), but you'll need a valid passport and should factor in travel insurance. For the best cross-border value: attend a match in Guadalajara or Mexico City ($60–$150/night hotels), combine it with a trip to nearby colonial cities like San Miguel de Allende, and enjoy food that costs a fraction of U.S. city prices.",
       },
     ],
   },
