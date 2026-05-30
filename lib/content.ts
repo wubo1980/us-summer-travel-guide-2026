@@ -193,15 +193,16 @@ export const articles: Article[] = [
       },
     ],
   },
+  {
     slug: "best-travel-credit-cards-2026",
     title: "Best Travel Credit Cards 2026",
     category: "Tips & Hacks",
-    excerpt: "A no-nonsense comparison of cashback, points, and miles cards for summer travel \u2014 with real annual-fee math, family-friendly insurance picks, and what changed in 2026.",
-    readTime: "10 min read",
+    excerpt: "A no-nonsense comparison of cashback, points, and miles cards for summer travel with real annual-fee math, family-friendly insurance picks, and what changed in 2026.",
+    readTime: "9 min read",
     updatedAt: "May 30, 2026",
     featured: false,
     tags: ["best travel credit cards 2026", "cashback vs points", "summer travel savings"],
-    placeholderSections: [
+        placeholderSections: [
       {
         heading: "Cash Back vs. Points vs. Miles: Which Actually Saves You Money?",
         body: "The three reward types serve different travelers, and the right choice depends entirely on how you spend. Cash-back cards like the Citi Double Cash (2% flat) or Wells Fargo Active Cash (2% unlimited) are the simplest: every dollar spent earns real money back, no transfer partners or blackout dates. They're ideal for families who want predictable savings on flights, gas, groceries, and lodging without juggling loyalty programs. Flexible points cards \u2014 Chase Sapphire Preferred and Capital One Venture Rewards lead this category \u2014 earn points you can transfer to airlines (United, Southwest, Air Canada) or hotels (Hyatt, Hilton) at ratios that frequently exceed 2 cents per point. For a family spending $5,000 on a summer road trip, that's potentially $100\u2013$150 in value above a 2% cash-back card. Miles cards tied to specific airlines (Delta SkyMiles, United Explorer) make sense only if you're loyal to one carrier \u2014 the free checked bag and priority boarding perks alone can offset the annual fee on a single trip. The 2026 rule of thumb: if you book one big trip per year, a flat cash-back card wins. If you travel 3+ times or fly internationally, a flexible points card multiplies your spending power.",
@@ -306,15 +307,16 @@ export const articles: Article[] = [
       },
     ],
   },
+  {
     slug: "250th-anniversary-free-events",
     title: "250th Anniversary Free Events",
     category: "Tips & Hacks",
-    excerpt: "A practical roundup of free America 250 events across the U.S. \u2014 July 4 mega-celebrations, National Park free days, regional festivals, and road trip routes that connect them all.",
+    excerpt: "A practical roundup of free America 250 events across the U.S. - July 4 mega-celebrations, National Park free days, regional festivals, and road trip routes that connect them all.",
     readTime: "9 min read",
     updatedAt: "May 30, 2026",
     featured: false,
     tags: ["250th anniversary free events", "America 250", "summer 2026 free activities"],
-    placeholderSections: [
+        placeholderSections: [
       {
         heading: "Semiquincentennial: What's Happening and Why It Matters",
         body: "2026 marks the 250th anniversary of the United States \u2014 the semiquincentennial \u2014 and it's shaping up as the largest coordinated celebration in American history. More than 30 state legislatures have passed resolutions supporting America250 activities, and the U.S. Semiquincentennial Commission has partnered with the National Park Service, Smithsonian Institution, and local governments across all 50 states to coordinate events. Unlike the Bicentennial in 1976, which was concentrated around July 4th, the 250th is designed as a multi-year commemoration running from 2026 through 2033, with the heaviest concentration of free public events in the summer of 2026. Federal funding of $150 million was allocated for America250 programs, with matching state and local contributions. For budget travelers, this means an unprecedented density of free concerts, fireworks, museum admissions, parades, and cultural festivals throughout the summer.",
@@ -341,6 +343,7 @@ export const articles: Article[] = [
       },
     ],
   },
+  {
     slug: "packing-hacks-to-save-on-baggage-fees",
     title: "Packing Hacks to Save on Baggage Fees",
     category: "Tips & Hacks",
@@ -349,7 +352,7 @@ export const articles: Article[] = [
     updatedAt: "May 30, 2026",
     featured: false,
     tags: ["packing hacks", "baggage fees 2026", "carry-on strategy", "family travel tips"],
-    placeholderSections: [
+        placeholderSections: [
       {
         heading: "How Airline Baggage Fees Changed After Spirit's Collapse",
         body: "Spirit Airlines ceased operations on May 2, 2026, eliminating the industry's most extreme a-la-carte pricing model. Spirit charged $38\u2013$55 for carry-on bags and $42\u2013$65 for checked luggage on a roundtrip, and its departure has reshuffled the fee landscape. Frontier, Spirit's closest competitor, raised its carry-on fees to $45\u2013$69 (up from $35\u2013$55) within two weeks of Spirit's closure and increased checked bag fees by 15%. Allegiant similarly adjusted upward, with carry-on fees now hitting $50\u2013$75. The low-cost vacuum has also emboldened legacy carriers: Delta raised its standard checked bag fee from $35 to $40 for advance purchase (still $50 at the gate) in early May. United and American held steady at $35/$45 advance/gate for first checked bags but eliminated the $5 discount for paying at booking vs. before departure. The net effect for summer 2026 travelers: a checked bag roundtrip now costs $70\u2013$100 on legacy carriers and $84\u2013$130 on ultra-low-cost airlines. Southwest, notably, still includes two free checked bags per passenger \u2014 making it the most luggage-friendly carrier in the country by a wide margin.",
@@ -375,7 +378,7 @@ export const articles: Article[] = [
         body: "For summer trips of 5\u20137 days, this 10-item system fills a personal item bag and avoids all baggage fees entirely. (1) Washable travel pants \u2014 one pair of lightweight hiking pants or dark jeans, worn on the plane. (2) Quick-dry shorts \u2014 one pair, doubles as swim trunks or beach bottoms. (3) Neutral t-shirt \u2014 two, preferably merino wool (sweat-resistant, wear 2\u20133 times between washes) or quick-dry polyester. (4) Button-down shirt or blouse \u2014 one that works for dinner or nicer outings. (5) Underwear \u2014 three pairs (quick-dry, wash in sink). (6) Socks \u2014 two pairs (for hiking or everyday). (7) Swimwear \u2014 one set, packed in a small dry bag. (8) Versatile shoes \u2014 wear one pair of comfortable sneakers or walking shoes that work for both hiking and casual dining. (9) Toiletries kit \u2014 travel-sized shampoo, sunscreen, toothpaste, deodorant, solid soap (no liquids over 3.4oz for carry-on). (10) Light outer layer \u2014 a packable windbreaker or hoodie for evenings and air-conditioned planes. This system fits into an 18x14x8-inch personal item bag (free on every airline) and covers a week of summer travel. The trick: do a sink wash of underwear and t-shirts halfway through your trip. Dry time on summer evenings is 2\u20133 hours.",
       },
     ],
-  },
+  }
 ];
 
 /**
