@@ -3,6 +3,9 @@ import { Inter, Plus_Jakarta_Sans } from "next/font/google";
 import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 
+import Script from "next/script";
+
+
 const inter = Inter({
   variable: "--font-body",
   subsets: ["latin"],
@@ -37,6 +40,15 @@ export default function RootLayout({
       className={`${inter.variable} ${plusJakartaSans.variable} h-full scroll-smooth antialiased`}
     >
       <body className="min-h-full flex flex-col">{children}<Analytics mode="production" /></body>
+        <Script src={"https://www.googletagmanager.com/gtag/js?id=G-HVWBK3967C"} strategy="afterInteractive" />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag("js", new Date());
+            gtag("config", "G-HVWBK3967C");
+          `}
+        </Script>
     </html>
   );
 }
