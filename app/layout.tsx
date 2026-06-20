@@ -18,9 +18,23 @@ const plusJakartaSans = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://us-summer-travel-guide-2026.vercel.app"),
   title: "Summer Budget Travel 2026",
   description:
     "A practical guide to cheap flights, affordable destinations, and smarter summer travel planning in the US.",
+  openGraph: {
+    title: "Summer Budget Travel 2026",
+    description: "A practical guide to cheap flights, affordable destinations, and smarter summer travel planning in the US.",
+    url: "https://us-summer-travel-guide-2026.vercel.app/",
+    siteName: "Summer Budget Travel 2026",
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Summer Budget Travel 2026",
+    description: "A practical guide to cheap flights, affordable destinations, and smarter summer travel planning in the US.",
+  },
   other: {
     "google-site-verification": "N21K5VoxWUyIIwGf5NZjvhvU2Ty_JC2EoVhMWPL-iro",
   },
