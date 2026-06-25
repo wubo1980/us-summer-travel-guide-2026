@@ -1,3 +1,4 @@
+import Image from "next/image";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
@@ -80,6 +81,17 @@ export default async function ArticlePage(
                 {tag}
               </span>
             ))}
+          {article.image && (
+            <div className="mt-8 overflow-hidden rounded-2xl">
+              <Image
+                src={article.image}
+                alt={article.title + " - travel insurance and trip planning"}
+                width={800}
+                height={450}
+                className="h-auto w-full object-cover"
+              />
+            </div>
+          )}
           </div>
           <div className="mt-8 rounded-[1.5rem] border border-orange-100 bg-orange-50/70 p-5">
             <p className="text-xs font-semibold tracking-[0.16em] text-orange-600 uppercase">
