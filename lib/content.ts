@@ -1029,7 +1029,6 @@ export const articles: Article[] = [
       },
     ],
   },
-,
 /**
  * Best Lake & Beach Vacations in the US for Summer 2026 — 湖区&海滩度假指南
  * Internal links: /articles/gas-prices-below-4-summer-2026, /articles/budget-road-trip-planning-guide, /articles/10-cheapest-us-destinations-for-summer-2026, /articles/family-camping-rv-vacation-guide-2026
