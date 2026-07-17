@@ -1,10 +1,10 @@
 import type { MetadataRoute } from "next";
-import { articles } from "@/lib/content";
+import { getAllArticles } from "@/lib/content";
 
 /**
  * Generates the sitemap.xml for the US Summer Travel Guide.
  */
-export default function sitemap(): MetadataRoute.Sitemap {
+export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const baseUrl = "https://us-summer-travel-guide-2026.vercel.app";
 
   const staticPages: MetadataRoute.Sitemap = [
@@ -15,6 +15,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 1,
     },
   ];
+
+  const articles = await getAllArticles();
 
   const articlePages: MetadataRoute.Sitemap = articles.map((article) => ({
     url: `${baseUrl}/articles/${article.slug}`,

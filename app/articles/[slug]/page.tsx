@@ -15,7 +15,7 @@ import {
  * 为文章占位页生成静态参数。
  */
 export async function generateStaticParams() {
-  return getArticleParams();
+  return await getArticleParams();
 }
 
 /**
@@ -25,7 +25,7 @@ export async function generateMetadata(
   props: PageProps<"/articles/[slug]">,
 ): Promise<Metadata> {
   const { slug } = await props.params;
-  const article = getArticleBySlug(slug);
+  const article = await getArticleBySlug(slug);
 
   if (!article) {
     return {
@@ -46,13 +46,13 @@ export default async function ArticlePage(
   props: PageProps<"/articles/[slug]">,
 ) {
   const { slug } = await props.params;
-  const article = getArticleBySlug(slug);
+  const article = await getArticleBySlug(slug);
 
   if (!article) {
     notFound();
   }
 
-  const relatedArticles = getRelatedArticles(article.slug);
+  const relatedArticles = await getRelatedArticles(article.slug);
 
   return (
     <div className="min-h-screen bg-transparent text-slate-950">

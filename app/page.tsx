@@ -3,13 +3,14 @@ import { FeatureGrid } from "@/components/feature-grid";
 import { HeroSection } from "@/components/hero-section";
 import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
-import { articles, featureCards, getLatestArticles } from "@/lib/content";
+import { featureCards, getLatestArticles, getAllArticles } from "@/lib/content";
 
 /**
  * 渲染站点首页。
  */
-export default function Home() {
-  const latestArticles = getLatestArticles();
+export default async function Home() {
+  const latestArticles = await getLatestArticles();
+  const allArticles = await getAllArticles();
 
   return (
     <div className="min-h-screen bg-transparent text-slate-950">
@@ -61,7 +62,7 @@ export default function Home() {
               Launch collection
             </p>
             <h2 className="font-[family-name:var(--font-heading)] text-3xl font-bold text-slate-950">
-              All eight launch topics for the first version of the site.
+              All launch topics for the first version of the site.
             </h2>
             <p className="max-w-3xl text-sm leading-7 text-slate-600">
               These pages are intentionally light, structured placeholders that
@@ -70,8 +71,11 @@ export default function Home() {
             </p>
           </div>
           <div className="grid gap-5 lg:grid-cols-2">
-            {articles.map((article) => (
-              <ArticleCard key={article.slug} article={article} />
+            {allArticles.map((article) => (
+              <ArticleCard
+                key={article.slug}
+                article={article}
+              />
             ))}
           </div>
         </section>
